@@ -1,0 +1,32 @@
+[
+  {
+    "contact": "+1-555-0199",
+    "email": "sales@nexustech.com",
+    "id": "SUP-101",
+    "name": "Nexus Tech Components"
+  },
+  {
+    "contact": "+1-555-0144",
+    "email": "orders@apexgear.com",
+    "id": "SUP-102",
+    "name": "Apex Industrial Gear"
+  },
+  {
+    "contact": "+1-555-0182",
+    "email": "contact@primesilicon.com",
+    "id": "SUP-103",
+    "name": "Prime Silicon Corp"
+  },
+  {
+    "contact": "23232",
+    "email": "asf@gmail.com",
+    "id": "101",
+    "name": "hashmi"
+  },
+  {
+    "contact": "232323453",
+    "email": "safasd@gmailc.com",
+    "id": "sam-123",
+    "name": "samsung"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "transactionId": "TXN-1794152521291",
+    "productId": "PROD-1022",
+    "type": "OUT",
+    "quantity": 100,
+    "date": "2026-11-08 21:12:01"
+  },
+  {
+    "transactionId": "TXN-1794152481985",
+    "productId": "PROD-1022",
+    "type": "IN",
+    "quantity": 30,
+    "date": "2026-11-08 21:11:21"
+  },
+  {
+    "transactionId": "TXN-1794146436945",
+    "productId": "PROD-005",
+    "type": "IN",
+    "quantity": 25,
+    "date": "2026-11-08 19:30:36"
+  },
+  {
+    "transactionId": "TXN-1794145546036",
+    "productId": "1021",
+    "type": "OUT",
+    "quantity": 41,
+    "date": "2026-11-08 19:15:46"
+  },
+  {
+    "transactionId": "TXN-1794145164695",
+    "productId": "PROD-002",
+    "type": "IN",
+    "quantity": 23,
+    "date": "2026-11-08 19:09:24"
+  },
+  {
+    "transactionId": "TXN-1794144064874",
+    "productId": "1021",
+    "type": "IN",
+    "quantity": 10,
+    "date": "2026-11-08 18:51:04"
+  },
+  {
+    "transactionId": "TXN-1794143851861",
+    "productId": "1021",
+    "type": "IN",
+    "quantity": 10,
+    "date": "2026-11-08 18:47:31"
+  },
+  {
+    "transactionId": "TXN-1794143448284",
+    "productId": "1021",
+    "type": "OUT",
+    "quantity": 100,
+    "date": "2026-11-08 18:40:48"
+  },
+  {
+    "transactionId": "TXN-1794143438749",
+    "productId": "1021",
+    "type": "IN",
+    "quantity": 20,
+    "date": "2026-11-08 18:40:38"
+  },
+  {
+    "transactionId": "TXN-1794143379546",
+    "productId": "1021",
+    "type": "OUT",
+    "quantity": 9,
+    "date": "2026-11-08 18:39:39"
+  },
+  {
+    "transactionId": "TXN-1794143349824",
+    "productId": "1021",
+    "type": "IN",
+    "quantity": 10,
+    "date": "2026-11-08 18:39:09"
+  },
+  {
+    "transactionId": "TXN-1794142391935",
+    "productId": "PROD-002",
+    "type": "IN",
+    "quantity": 10,
+    "date": "2026-11-08 18:23:11"
+  },
+  {
+    "transactionId": "TXN-1794141153251",
+    "productId": "PROD-005",
+    "type": "IN",
+    "quantity": 25,
+    "date": "2026-11-08 18:02:33"
+  },
+  {
+    "transactionId": "TXN-10001",
+    "productId": "PROD-001",
+    "type": "IN",
+    "quantity": 45,
+    "date": "2026-11-08 18:01:54"
+  },
+  {
+    "transactionId": "TXN-10002",
+    "productId": "PROD-002",
+    "type": "IN",
+    "quantity": 14,
+    "date": "2026-11-08 18:01:54"
+  },
+  {
+    "transactionId": "TXN-10003",
+    "productId": "PROD-002",
+    "type": "OUT",
+    "quantity": 10,
+    "date": "2026-11-08 18:01:54"
+  }
+]

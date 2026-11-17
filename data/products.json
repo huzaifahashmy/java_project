@@ -1,0 +1,51 @@
+[
+  {
+    "supplierId": "SUP-101",
+    "price": 299.5,
+    "quantity": 37,
+    "id": "PROD-002",
+    "name": "27-inch 4K IPS Monitor"
+  },
+  {
+    "supplierId": "SUP-102",
+    "price": 150.0,
+    "quantity": 18,
+    "id": "PROD-003",
+    "name": "Heavy Duty Steel Shelving Unit"
+  },
+  {
+    "supplierId": "SUP-102",
+    "price": 75.25,
+    "quantity": 6,
+    "id": "PROD-004",
+    "name": "Industrial Barcode Scanner"
+  },
+  {
+    "supplierId": "SUP-103",
+    "price": 119.0,
+    "quantity": 72,
+    "id": "PROD-005",
+    "name": "Cat6 Ethernet Spool (1000ft)"
+  },
+  {
+    "supplierId": "101",
+    "price": 100.0,
+    "quantity": 0,
+    "id": "1021",
+    "name": "sofa"
+  },
+  {
+    "supplierId": "SUP-101",
+    "price": 10.0,
+    "quantity": 5,
+    "id": "PROD-001",
+    "name": "Duplicate Test"
+  },
+  {
+    "supplierId": "sam-123",
+    "price": 350.0,
+    "quantity": 30,
+    "id": "PROD-1022",
+    "name": "samsun smart tv"
+  }
+]
